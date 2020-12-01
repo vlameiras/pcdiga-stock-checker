@@ -1,4 +1,4 @@
-# PC Parts Stock Checker
+# PC Diga Stock Checker
 
 Periodically checks (every 5 minutes) for PCDiga products stock availability.
 
