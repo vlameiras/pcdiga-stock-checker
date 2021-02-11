@@ -1,3 +1,6 @@
+# WARNING
+Currently not working due to PCDiga website changes. Will try to fix it ASAP.
+
 # PC Diga Stock Checker
 
 Periodically checks (every 5 minutes) for PCDiga products stock availability.
